@@ -4,10 +4,17 @@ Creation-Date: 2020-07-06T14:10:45-04:00
 
 ====== One Commander V3 ======
 
-Welcome to One Commander Version 3. 
+<The pages within a section are currently numbered (except for the Full Reference Guide, which is alphabetic). That's because Zim arranges pages alphabetically within a section (people have been asking for years for the ability to arrange pages manually, but so far these requests have been ignored), so I've put the numbers in to force the pages and sections into the correct order. No doubt the numbers can be removed at the html stage if they're not needed.
 
-* [[+Getting started|Getting started]]
-* [[+Reference guide|Reference guide]]
-* [[+Troubleshooting|Troubleshooting]]
+The screenshots that I'm using at the moment are just placeholders, from my main desktop. When the UI is stabilized I'll re-do them on the other machine that I'm currently doing a clean reinstall of Win10 on>
 
-If you don't find what you're looking for here, please email support@onecommander.com or go to the One Commander Google Group at ...
+Welcome to One Commander Version 3, a major rewrite of the well-established Version 2. One Commander is a powerful and flexible dual-pane file manager for Microsoft Windows, using folder columns that make navigating complex folder tree structures fast and intuitive.
+
+This guide to One Commander is in four section:
+
+1. [[+1. Quick Introductory Guide|Quick introductory guide:]] All you need to know to start using One Commander.
+2. [[+2. Full Reference Guide|Full reference guide:]] Detailed information about One Commander's capabilities, and how to modify it to suit your needs.
+3. [[+3. Shortcut Keys|Shortcut keys:]] Comprehensive list of One Commander's shortcuts.
+4. [[+4. Troubleshooting|Troubleshooting:]] What to do and whom to contact if things aren't working as they should.
+
+If you don't find what you're looking for here, please email support@onecommander.com or go to the One Commander Google Group at <address of Google Group>.

@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-07-28T17:12:49-04:00
+
+====== 4. Folder columns ======
+
+The [[3. The Browsers|Navigation Pane]] displays folders in columns:
+{{.\pasted_image001.png?width=400}}
+
+You can navigate to a folder in any of the columns by clicking on it. A new column displaying that folder will appear to the right of the column you clicked in.
+
+The columns to the left of the Current Folder Column compress to allow you a good view of the Current Folder Column. If they're compressed too much to give a clear view of their contents, you can expand them by moving the mouse cursor over them. You can [[2. Full Reference Guide:Folder columns|change how quickly they respond to the mouse cursor and many other aspects of how the columns are displayed.]]

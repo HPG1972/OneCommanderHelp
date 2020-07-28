@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-07-15T18:14:51-04:00
+
+====== Layouts ======
+
+One Commander provides two layouts: horizontal (the opening default) and vertical.
+
+Each layout provides two separate folder and file views, although they can be reduced to single views by [[Changing between double and single panel view|dragging the border separating them]]. 
+
+===== Horizontal layout =====
+Displays 
+
+===== Vertical layout =====
+
+
+

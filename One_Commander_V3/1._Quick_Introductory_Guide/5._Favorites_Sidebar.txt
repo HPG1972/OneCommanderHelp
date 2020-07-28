@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-07-25T16:55:09-04:00
+
+====== 5. Favorites Sidebar ======
+
+One Commander allows you to identify as many favorite folders as you like. They are arranged into groups in the [[2. Full Reference Guide:Favorites Sidebar|Favorites Sidebar]]. One Commander creates an initial group from a list of standard folders in your C:\Users\<username> folder. 
+
+You can create a new Favorites group by clicking on the New Group button below the initial group, and add folders to it by clicking on the "+" button to the right of its name.

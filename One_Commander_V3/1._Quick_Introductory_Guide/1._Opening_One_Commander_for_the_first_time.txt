@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-07-28T15:55:20-04:00
+
+====== 1. Opening One Commander for the first time ======
+
+One Commander is a dual-pane file manager, meaning that it can simultaneously display either one or two independent [[3. The Browsers|file browsers]] within the same window. The browsers can be viewed either vertically, with a navigation pane at the top and a detailed view of the current folder at the bottom, or in a more compact horizontal layout. You can switch between the two views using the "Layout" button or make one browser collapse to give a single-browser view. 
+
+**When you first open One Commander you will see a single-browser, horizontal layout:**
+<put in screenshot here>
+**To change to a dual-browser layout **<put in instructions about how to do this>

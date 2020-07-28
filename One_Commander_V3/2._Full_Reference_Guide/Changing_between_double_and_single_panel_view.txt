@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-07-15T18:23:34-04:00
+
+====== Changing between double and single panel view ======
+
+Both horizontal and vertical [[Layouts|layouts]] can show double or single panel folder/file views. 
+
+<screenshot of layouts showing separator>
+
+===== Changing double-panel to single-panel view =====
+Drag the thick grey separator between the two panels up or down (horizontal view), or left/right (vertical view). When the panel becomes too small it collapses, giving the single-panel view. 
+
+===== Changing single-panel to double-panel view =====
+The thick grey separator will be visible where it was left after collapsing one of the panels. Drag it back to the centre of the display, and the second panel will reappear.

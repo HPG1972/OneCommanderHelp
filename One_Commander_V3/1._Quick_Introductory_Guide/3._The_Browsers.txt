@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-07-25T16:08:44-04:00
+
+====== 3. The Browsers ======
+
+The browsers are divided into three main panes (see screenshots below):
+* [[2. Full Reference Guide:Navigation Pane|Navigation Pane:]] By clicking on drives or folders in the columns you can navigate between drives and the folders in those drives.
+* [[2. Full Reference Guide:Current Folder Pane|Current Folder Pane:]] Shows the folders and files in the folder that is selected in the Navigation Pane.
+* [[2. Full Reference Guide:Folder or File Details Pane|File/Folder Details Pane:]] Shows details of the folder or file that is selected in the Current Folder Panel. If a file is selected, this pane shows a preview of the contents of the file if it can (not all file types are supported).
+
+You can create multiple independent file/folder views in each browser by adding tabs. Click on the "+" tab to the right of the Browser Tabs to create a new tab, which is a clone of the previous rightmost tab. Tabs can be closed by clicking on the "X" at the right-hand end of the tab. Once deleted, they can't be restored <is that right?>.
+
+You can [[2. Full Reference Guide:Resizing and Collapsing Browsers|resize either browser]] by dragging their borders, or the Browser Divider separating them. If you try to reduce the width of a browser below a certain point it tells you that it's about to [[2. Full Reference Guide:Resizing and Collapsing Browsers|collapse]], meaning that it's about to disappear from view so that you see a single-browser view. You can restore the dual-browser view by dragging the border or Browser Divider back again. The browser will be restored exactly as it was before.
+
+<it would be nice if the two screenshots could be side-by-side, and turn labels into links>
+
+==== Vertical Browser ====
+{{.\pasted_image.png?height=400}}
+
+==== Horizontal Browser ====
+{{.\pasted_image001.png?width=550}}

@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-07-15T18:58:15-04:00
+
+====== Folder columns <placeholder until better label available> ======
+
+The folder tree is displayed as a series of columns. A single click on any folder in a column opens that folder in a new column to its right. This behaviour is known as [[https://en.wikipedia.org/wiki/Miller_columns|Miller columns,]] a widely-used technique in which all of the columns that are part of the tree branches leading to the currently-open folder remain visible. This makes it easier to see where the currently-open folder sits in the folder tree structure.
+
+One Commander adds two features to standard Miller columns:
+* As each new folder is opened, the columns to its left shrink to give room for the contents of the current folder to be easily read.
+* As the cursor moves over folders to the left of the current folder (i.e. over its parent folders), the folders under the cursor expand while the cursor is over them so their contents can be seen. The responsiveness and speed of this expansion can be adjusted in [[Settings:Expanding columns|Settings]].
+

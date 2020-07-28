@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-07-06T14:14:51-04:00
+
+====== 1. Quick Introductory Guide ======
+
+The Quick Introductory Guide provides you with all that you need to start using One Commander. [[2. Full Reference Guide|We]] strongly recommend that you read it sooner rather than later; it really is a //quick// guide! Once you've read it, you'll probably find that the best way of learning about the many features of One Commander is to start using it. When you want more about a particular feature, you'll find it in the [[2. Full Reference Guide|Full Reference Guide]].
+

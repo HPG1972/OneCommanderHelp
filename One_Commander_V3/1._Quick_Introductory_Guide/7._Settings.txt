@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-07-28T16:50:08-04:00
+
+====== 7. Settings ======
+ 
+You can change much, if not most, of the way One Commander looks and behaves by adjusting its settings. Information about these settings can be found here:
+* [[2. Full Reference Guide:Settings|changing One Commander as a whole]]
+* [[2. Full Reference Guide:File View Designer|changing the display in the Current Folder Pane]]

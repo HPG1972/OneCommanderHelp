@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-07-06T14:16:41-04:00
+
+====== 2. Full Reference Guide ======
+
+Based on the reference guide in V2, go through the different features of V3: horizontal and vertical.
+
+<Fully labelled screenshot of main window and its components, with each label acting as a link to the appropriate page in Section 2.>

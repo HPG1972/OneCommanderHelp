@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-07-15T11:38:27-04:00
+
+====== 2. The Main Window ======
+
+The Main Window displays a [[5. Favorites Sidebar|Favorites Sidebar]] and either one or two [[3. The Browsers|browsers]]. When One Commander is opened for the first time, only one browser is visible. Instructions for changing it to a dual-browser view are [[1. Opening One Commander for the first time|here]].
+
+The browsers are displayed in either horizontal or vertical layouts (see screenshots below). You can switched back and forth between them as often as you like. When you do this, the only thing that changes is the layout; the files, folders, and settings remain the same.
+
+==== Horizontal Layout (with two browsers visible) ====
+{{.\pasted_image001.png?height=400}}
+==== Vertical Layout (with two browsers visible) ====
+{{.\pasted_image.png?width=400}}
+
+

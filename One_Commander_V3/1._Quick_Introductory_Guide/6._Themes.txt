@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-07-28T16:36:24-04:00
+
+====== 6. Themes ======
+
+One Commander allows you to change themes and create new ones. Initially two themes are provided: the default, and DarkAcrylic. You can switch between these themes by <instructions for switching themes>.
+
+Detailed information about changing these themes or adding new ones is [[2. Full Reference Guide:Themes|here]]. 

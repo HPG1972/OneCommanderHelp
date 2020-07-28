@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-07-25T17:02:18-04:00
+
+====== Resizing and Collapsing Browsers ======
+Created Saturday 25 July 2020
+
+
+===== Resizing individual panes =====
+Each individual pane is surrounded by a grey border that can be dragged to resize the pane in question. Some borders appear when the cursor moves over them, but are hidden otherwise.
+Each **column** has a minimum width. In the **vertical layout**, if you try to reduce the width of one of the two file panels below the minimum width, the panel collapses, yielding a single-panel view. You can restore the two-panel view by dragging the right-hand side of the left single-panel border to the right.
+
+===== Collapsing a browser to create a single-browser layout =====

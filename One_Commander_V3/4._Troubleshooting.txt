@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2020-07-06T14:44:46-04:00
 
-====== Troubleshooting ======
+====== 4. Troubleshooting ======
 
 What to do when things go wrong:
 1. Drink large Scotch.

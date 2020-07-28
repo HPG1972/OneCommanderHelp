@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-07-15T11:24:43-04:00
+
+====== Expanding columns ======
+The [[Folder columns|columns]] in the Folder view pane expand when the cursor moves over them, a modification of the widely-used technique called Miller Columns or cascading lists. You can adjust two features:
+* The delay between when the cursor moves into a column and the column expanding (i.e. how responsive the column-expanding is to the cursor passing over the column).
+* The length of time it takes for the column to expand (i.e. how fast it expands).
+
+Each parameter is set in milliseconds (ms).
+
